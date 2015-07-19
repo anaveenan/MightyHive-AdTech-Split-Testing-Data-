@@ -18,10 +18,10 @@ Data
 
 The results of the advertising campaign for Martin's Travel Agency are given in the following two datasets:
 
-The Abandoned Dataset: Download here
+The Abandoned Dataset: https://github.com/sayandev/MightyHive-AdTech-Split-Testing-Data-/blob/master/Abandoned_Data_Seed.csv
 
 Observations in the Abandoned Dataset are individuals who called into Martins Travel Agency's call center but did not make a purchase.
-The Reservation Dataset: Download here
+The Reservation Dataset: https://github.com/sayandev/MightyHive-AdTech-Split-Testing-Data-/blob/master/Reservation_Data_Seed.csv
 
 Observations in the Reservation Dataset are the customers who called into Martins Travel Agency's call center and made a reservation.
 The schema for both of the datasets is provided below:
