@@ -27,7 +27,11 @@ Observations in the Reservation Dataset are the customers who called into Martin
 The schema for both of the datasets is provided below:
 
 Caller_ID - A unique ID generated for every incoming phone call to the call center
+
 Session - The Year/Month/Day/Time of each incoming phone call to the call center
+
 Incoming_Phone - Phone number identified using caller indentification
+
 Contact_Phone - Phone number the caller submits
+
 Test_Control - Experiment tag
