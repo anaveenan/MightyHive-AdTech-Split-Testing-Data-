@@ -2,7 +2,8 @@
 MightyHive: AdTech Split Testing
 
 Company Website: http://mightyhive.com/call-center-remarketing/
-Descripion: Teamleada provide Data science project to get hands on experience. In the project "A/B Testing Analytics: MightyHive Project" the data is provided along with the schema to perform a detailed Data Cleaning, Data Deduplication, Data Strcuturing & Analysis.
+
+Data Source: Teamleada provide Data science project to get hands on experience. In the project "A/B Testing Analytics: MightyHive Project" the data is provided along with the schema to perform a detailed Data Cleaning, Data Deduplication, Data Strcuturing & Analysis.
 
 Data Available: https://www.teamleada.com/projects/ab-testing-analytics-mightyhive-project/data-background/data-background
 
